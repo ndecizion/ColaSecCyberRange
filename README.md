@@ -9,6 +9,6 @@
 * Logical Inventory
 
 ## Task Documentation
-* Setting up a VPN user
+* [Setting up a VPN user](docs/vpn_user_setup.md)
 * Setting up & Configuring XenServer
 
