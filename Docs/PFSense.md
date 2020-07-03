@@ -1,5 +1,9 @@
 # PFSense Docs!
 
+## Setup Remote Access VPN
+Using OpenVPN
+[Instructions from TurboFuture](https://turbofuture.com/computers/How-to-Setup-a-Remote-Access-VPN-Using-pfSense-and-OpenVPN)
+
 ## Create a VPN User
 1. Log into PFSense web UI (Credentials are in KeePass)
    - https://99.174.223.246/ (at adam’s house)
