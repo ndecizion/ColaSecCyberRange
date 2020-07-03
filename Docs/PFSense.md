@@ -14,4 +14,5 @@
 5. Do not add to any groups.
 6. Click Save.
 7. Send the human their credentials via secure means.
- ![PFSense VPN User Panel](Images/PFSense-VPNUser-Properties.png)
+
+![PFSense VPN User Panel](Images/PFSense-VPNUser-Properties.png)
