@@ -9,6 +9,6 @@
 * Logical Inventory
 
 ## Task Documentation
-* [Setting up a VPN user](docs/PFSense.md#create-a-vpn-user)
+* [Setting up a VPN user](Docs/PFSense.md#create-a-vpn-user)
 * Setting up & Configuring XenServer
 
