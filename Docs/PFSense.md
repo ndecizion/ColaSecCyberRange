@@ -1,6 +1,6 @@
 # PFSense Docs!
 
-# Create A VPN User
+## Create a VPN User
 1. Log into PFSense web UI (Credentials are in KeePass)
    - https://99.174.223.246/ (at adam’s house)
    - 5 (local on the network)
@@ -14,3 +14,4 @@
 5. Do not add to any groups.
 6. Click Save.
 7. Send the human their credentials via secure means.
+ ![PFSense VPN User Panel](Images/PFSense-VPNUser-Properties.png)
