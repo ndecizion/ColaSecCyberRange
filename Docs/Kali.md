@@ -5,3 +5,6 @@ The documentation here will help you get Kali setup to work in SCBG.
 Config files for Kali can be found here:
 [/Configs/Kali](/Configs/Kali)
 > sudo apt install xrdp
+
+## Network change
+vi /etc/NetworkManager/system-connections/Wired\ connection\ 1
